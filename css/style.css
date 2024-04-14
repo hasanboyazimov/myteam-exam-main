@@ -45,3 +45,9 @@ main {
   padding-left: 3rem;
   padding-right: 3rem;
 }
+
+
+* {
+  font-family: "Livvic", sans-serif;
+  transition: 0.3s ease-in-out all;
+}

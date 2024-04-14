@@ -1,0 +1,8 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 1240px;
+    flex-wrap: wrap;
+    margin: 0 auto;
+  } 
